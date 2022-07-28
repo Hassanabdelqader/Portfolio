@@ -37,6 +37,15 @@ $content-background-color: #8C8C8C;
   outline-style: none;
   outline-width: 0;
 }
+.title-container{
+  color:white;
+}
+svg{
+  color : white !important;
+}
+.octo-body , .octo-arm{
+  color : white !important;
+}
 
 %clear-selection {
   user-select: none;
