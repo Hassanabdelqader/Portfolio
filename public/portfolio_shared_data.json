@@ -1,0 +1,73 @@
+{
+    "basic_info": {
+      "name": "Hasan Mousa Terawi",
+      "titles": ["Full Stack Developer | React JS"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Hassanabdelqader",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/hassanabdelqader/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Mongo",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original colored",
+          "level": "60"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain colored",
+          "level": "60"
+        }
+      ]
+    }
+  }
