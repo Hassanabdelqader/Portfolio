@@ -1,146 +1,146 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Hassan Mousa.I'm working with newest front-end frameworks like Angular, React.I've graduated from the Jordan University of Science and Technology with a major in computer science .📫 How to reach me TerawiHassan@gmail.com💚",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Hassan Mousa.I'm working with newest front-end frameworks like Angular, React.I've graduated from the Jordan University of Science and Technology with a major in computer science .📫 How to reach me TerawiHassan@gmail.com💚",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Restaurent Pages",
+      "startDate": "2022",
+      "description": "webpage design using HTML5 and pure css and Vanilla JavaScript with LocalStorage",
+      "images": [
+        
+        "images/portfolio/resturantProject/h3.PNG",
+        "images/portfolio/resturantProject/h2.PNG",
+        "images/portfolio/resturantProject/h1One.PNG"
+      ],
+      "url": "https://hassanabdelqader.github.io/Restaurant/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain-wordmark colored",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Restaurent Pages",
-        "startDate": "2022",
-        "description": "webpage design using HTML5 and pure css and Vanilla JavaScript with LocalStorage",
-        "images": [
-          
-          "images/portfolio/resturantProject/h3.PNG",
-          "images/portfolio/resturantProject/h2.PNG",
-          "images/portfolio/resturantProject/h1One.PNG"
-        ],
-        "url": "https://hassanabdelqader.github.io/Restaurant/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain-wordmark colored",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-javascript-plain colored",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain-wordmark colored",
-            "name": "Css3"
-          }
-        ]
-      },
-      {
-        "title": "HornedBeast App",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible to Create the WEbPage using react and dealing with Modal",
-        "images": [
-          "images/portfolio/hornedbeast/ho4.PNG",
-          "images/portfolio/hornedbeast/Horned1.PNG",
-          "images/portfolio/hornedbeast/horned2e.PNG"
-        ],
-        "url": "https://fancy-muffin-b01b09.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain-wordmark",
-            "name": "Css3"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "Chocolate Pizza",
-        "startDate": "2022",
-        "description": "One of the first apps I was working on my 301 Level. I had to design Page With Only Puree Css3 and HTML5 Witout using Flex and Grid",
-        "images": [
-          "images/portfolio/ChoclatePizza/choc.PNG",
-          "images/portfolio/ChoclatePizza/chocofirst.PNG",
-          "images/portfolio/ChoclatePizza/choco3.PNG"
-        ],
-        "url": "https://hassanabdelqader.github.io/Chocolate-Pizza-CSS/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain-wordmark colored",
-            "name": "HTML5"
-          },
-                    {
-            "class": "devicon-css3-plain-wordmark",
-            "name": "Css3"
-          }
-        ]
-      },
-      {
-        "title": "Hr System",
-        "startDate": "2022",
-        "description": "One of the first apps I was working on my 201 Level. I had to design Page With Only Puree Css3 and HTML5",
-        "images": [
-          "images/portfolio/hrSystem/hr1.PNG",
-          "images/portfolio/hrSystem/hr2.PNG",
-          "images/portfolio/hrSystem/hr3.PNG"
-        ],
-        "url": "https://hassanabdelqader.github.io/HR-management-system/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain-wordmark colored",
-            "name": "HTML5"
-          },
-                    {
-            "class": "devicon-css3-plain-wordmark",
-            "name": "Css3"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "LTUC",
-        "title": "Full Stack Developer Intern",
-        "years": "06.2022 - present",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "HTML5, Css",
-          "Node.js",
-          "git and gitHub",
-          "Wireframe",
-          "JavaScript",
-          "Bootstrap",
-          "Netlify",
-          "CDN Libraries"
-        ]
-      },
-      {
-        "company": "Outsourcing Company , FreeLancer",
-        "title": "Backoffice",
-        "years": "05.2020 - 05.2022",
-        "mainTech": [
-          "WebPage"
-        ],
-        "technologies": [
-          "Andoird",
-          "JavaScript",
-          "HTML5",
-          "Pure Css",
-          "FireBase"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "HornedBeast App",
+      "startDate": "2022",
+      "description": "Personal project for study subject. I was responsible to Create the WEbPage using react and dealing with Modal",
+      "images": [
+        "images/portfolio/hornedbeast/ho4.PNG",
+        "images/portfolio/hornedbeast/Horned1.PNG",
+        "images/portfolio/hornedbeast/horned2e.PNG"
+      ],
+      "url": "https://fancy-muffin-b01b09.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Chocolate Pizza",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my 301 Level. I had to design Page With Only Puree Css3 and HTML5 Witout using Flex and Grid",
+      "images": [
+        "images/portfolio/ChoclatePizza/choc.PNG",
+        "images/portfolio/ChoclatePizza/chocofirst.PNG",
+        "images/portfolio/ChoclatePizza/choco3.PNG"
+      ],
+      "url": "https://hassanabdelqader.github.io/Chocolate-Pizza-CSS/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain-wordmark colored",
+          "name": "HTML5"
+        },
+                  {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        }
+      ]
+    },
+    {
+      "title": "Hr System",
+      "startDate": "2022",
+      "description": "One of the first apps I was working on my 201 Level. I had to design Page With Only Puree Css3 and HTML5",
+      "images": [
+        "images/portfolio/hrSystem/hr1.PNG",
+        "images/portfolio/hrSystem/hr2.PNG",
+        "images/portfolio/hrSystem/hr3.PNG"
+      ],
+      "url": "https://hassanabdelqader.github.io/HR-management-system/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain-wordmark colored",
+          "name": "HTML5"
+        },
+                  {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "LTUC",
+      "title": "Full Stack Developer Intern",
+      "years": "06.2022 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "HTML5, Css",
+        "Node.js",
+        "git and gitHub",
+        "Wireframe",
+        "JavaScript",
+        "Bootstrap",
+        "Netlify",
+        "CDN Libraries"
+      ]
+    },
+    {
+      "company": "Outsourcing Company , FreeLancer",
+      "title": "Backoffice",
+      "years": "05.2020 - 05.2022",
+      "mainTech": [
+        "WebPage"
+      ],
+      "technologies": [
+        "Andoird",
+        "JavaScript",
+        "HTML5",
+        "Pure Css",
+        "FireBase"
+      ]
+    }
+  ]
+}
