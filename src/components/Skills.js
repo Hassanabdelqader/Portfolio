@@ -26,7 +26,7 @@ class Skills extends Component {
 
     return (
       <section id="skills">
-        <div className="col-md-12">
+        <div className="col-md-12 div-vid">
           <div className="col-md-12">
             <h1 className="section-title">
               <span className="text-white">{sectionName}</span>
@@ -36,6 +36,13 @@ class Skills extends Component {
             <ul className="list-inline mx-auto skill-icon">{skills}</ul>
           </div>
         </div>
+        {/* <div>
+        <video autoplay muted loop id="myVideo">
+          <source src="./videos/space.mp4" type="video/mp4" />
+          Your browser does not support HTML5 video.
+        </video>
+        </div>
+         */}
       </section>
     );
   }

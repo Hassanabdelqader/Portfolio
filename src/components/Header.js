@@ -3,13 +3,18 @@ import Switch from "@brookr/react-switch";
 import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
 
+
 class Header extends Component {
   titles = [];
-
+  
   constructor() {
+   
     super();
-    this.state = { checked: false };
+    this.state = { 
+      checked: false 
+    };
     this.onThemeSwitchChange = this.onThemeSwitchChange.bind(this);
+    
   }
 
   onThemeSwitchChange(checked) {
@@ -25,6 +30,7 @@ class Header extends Component {
       body.getAttribute(dataThemeAttribute) === "dark" ? "light" : "dark";
     body.setAttribute(dataThemeAttribute, newTheme);
   }
+
 
   render() {
     if (this.props.sharedData) {
@@ -99,7 +105,7 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner " style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
@@ -112,7 +118,7 @@ class Header extends Component {
               </div>
               
             </div>
-          </div>
+          </div>  
         </div>
       </header>
     );
