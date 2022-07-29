@@ -105,7 +105,9 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner " style={{height: '100%'}}>
+        <div>
+       
+        <div className="row aligner div-vid" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
@@ -116,10 +118,13 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+             
             </div>
           </div>  
+          </div>
+         
         </div>
+       
       </header>
     );
   }
