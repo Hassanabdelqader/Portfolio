@@ -48,19 +48,19 @@
         "url": "https://fancy-muffin-b01b09.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-react-original colored",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain-wordmark",
+            "class": "devicon-css3-plain-wordmark colored",
             "name": "Css3"
           },
           {
-            "class": "devicon-bootstrap-plain",
+            "class": "devicon-bootstrap-plain colored",
             "name": "Bootstrap"
           }
         ]
@@ -81,7 +81,7 @@
             "name": "HTML5"
           },
                     {
-            "class": "devicon-css3-plain-wordmark",
+            "class": "devicon-css3-plain-wordmark colored",
             "name": "Css3"
           }
         ]
@@ -102,7 +102,7 @@
             "name": "HTML5"
           },
                     {
-            "class": "devicon-css3-plain-wordmark",
+            "class": "devicon-css3-plain-wordmark colored",
             "name": "Css3"
           }
         ]
