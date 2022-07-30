@@ -12,12 +12,14 @@ class About extends Component {
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
       let count =0;
+      
     }
 
     return (
       <section id="about">
         <div className="col-md-12">
           <h1 style={{ color: "black" }}>
+            
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
