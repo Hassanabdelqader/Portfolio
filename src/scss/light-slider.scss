@@ -32,13 +32,12 @@ $content-background-color: #D7CAAA;
 svg{
   color : black !important;
 }
-.text-black{
-  color: black !important;
+
+#portfolio{
+  background-image: url("./bg.jpg");
+  background-size: cover;
+  color : white;
 }
-// #skills{
-//   background-color: red;
-  
-// }
 
 
 %clear-spacing {

@@ -55,6 +55,11 @@ svg{
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-tap-highlight-color: transparent;
 }
+#portfolio{
+  background-image: url("./bg.jpg") !important;
+  background-size: cover !important;
+  color : white !important;
+}
 
 .#{$root-element} {
   --organic-arrow-thickness: #{$organic-arrow-thickness};
