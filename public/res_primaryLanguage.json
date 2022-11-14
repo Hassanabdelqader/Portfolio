@@ -11,6 +11,133 @@
   },
   "projects": [
     {
+      "title": "Chat App",
+      "startDate": "2022",
+      "description": "Personal project for study subject.",
+      "images": [
+        "images/portfolio/chatapp/chat.PNG",
+        "images/portfolio/chatapp/chat2.PNG",
+        "images/portfolio/chatapp/chat3.PNG"
+      ],
+      "url": "https://app-for-hd.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-mongodb-plain colored",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Nasian App",
+      "startDate": "2022",
+      "description": "Personal project for study subject.",
+      "images": [
+        "images/portfolio/nasaian/Capture.PNG",
+        "images/portfolio/nasaian/Capture2.PNG"
+      ],
+      "url": "https://nasaian.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Raiveny App",
+      "startDate": "2022",
+      "description": "Personal project for study subject.",
+      "images": [
+        "images/portfolio/raiveny/raiveny.PNG",
+        "images/portfolio/raiveny/raiveny2.PNG"
+      ],
+      "url": "https://raiveny.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-postgresql-plain colored",
+          "name": "Bootstrap"
+        }
+
+      ]
+    },
+    {
+      "title": "Whiteboard App",
+      "startDate": "2022",
+      "description": "Personal project for study subject.",
+      "images": [
+        "images/portfolio/whiteboard/whiteboard.PNG"
+      ],
+      "url": "https://whiteboarddodo.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-css3-plain-wordmark colored",
+          "name": "Css3"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-postgresql-plain colored",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    
+    
+    {
       "title": "Restaurent Pages",
       "startDate": "2022",
       "description": "webpage design using HTML5 and pure css and Vanilla JavaScript with LocalStorage",
